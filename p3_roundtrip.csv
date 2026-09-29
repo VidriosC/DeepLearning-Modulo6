@@ -1,0 +1,13 @@
+engine,sentence,synth_s,audio_s,RTF,WER,heard
+gtts,probe,1.157418966293335,7.344,0.15760062177196826,0.0,El doctor Pérez midió 128 bandas el 15 de septiembre de 2026.
+piper,probe,2.2928578853607178,6.2693877551020405,0.3657227746831874,0.26666666666666666,El doctor Perez midió 128 bandas el 15 vara 09 vara 2026.
+xtts,probe,3.065800905227661,4.918,0.6233836732874464,0.26666666666666666,el doctor Pérez Millo 128 bandas el 15-9-2026.
+gtts,fourier,1.1393277645111084,6.168,0.1847159151282601,0.0,La transformada de Fourier revela las componentes de frecuencia de una señal.
+piper,fourier,1.4333479404449463,4.31891156462585,0.3318771220473272,0.0,La transformada de Fourier revela las componentes de frecuencia de una señal.
+xtts,fourier,3.6318235397338867,5.6113333333333335,0.6472300474754461,0.08333333333333333,La transformada de Fourier revela las componentes de frecuencia de una señal.qn.
+gtts,question,1.1637096405029297,5.904,0.19710529141309785,0.0,"¿Ya terminaste de entrenar el modelo, o todavía te falta la última época?"
+piper,question,1.788306474685669,4.690430839002268,0.38126699573424927,0.0,"Ya terminaste de entrenar el modelo, o todavía te falta la última época."
+xtts,question,3.2207868099212646,4.5873333333333335,0.7021043765269432,0.0,¿Ya terminaste de entrenar el modelo? ¿O todavía te falta la última época?
+gtts,long,1.501342535018921,11.664,0.12871592378420105,0.04,Los sistemas de síntesis de voz trabajan en tres etapas. Normalizan el texto. Deciden la prosodia y reconstruyen la forma de onda con un bocoder.
+piper,long,2.1460511684417725,9.241541950113378,0.23221786797336824,0.04,"Los sistemas de síntesis de voz trabajan en tres etapas, normalizan el texto, deciden la prosodia y reconstruyen la forma de onda con un bocoder."
+xtts,long,6.280195951461792,9.376666666666667,0.6697684982006887,0.04,"Los sistemas de síntesis de voz trabajan en tres etapas. Normalizan el texto, deciden la prosodia y reconstruyen la forma de onda con un bocoder."
